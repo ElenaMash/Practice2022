@@ -2,3 +2,4 @@ git remote add origin git@github.com:ElenaMash/Practice2022.git
 git branch -M main
 git push -u origin main
 git pull
+git add
